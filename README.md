@@ -5,4 +5,8 @@
 
 大三上 机器学习——攻坚阶段
 
+参考课程 CS_229 Stanford CS229: Machine Learning - Andrew Ng (Autumn 2018)
+
+         CS_230
+
 :eyes:**Try Hard ==Don't let each day down==:fire:
